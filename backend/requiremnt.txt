@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+google-generativeai
+google-cloud-vision
+google-cloud-aiplatform
+pytesseract
+Pillow
